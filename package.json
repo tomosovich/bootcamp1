@@ -1,0 +1,24 @@
+{
+  "name": "bootcamp1",
+  "version": "1.0.0",
+  "description": "Following along with the Web Developer Bootcamp courses by Colt Steele. I'll try to keep up with a review as I go in the course.",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomosovich/bootcamp1.git"
+  },
+  "author": "Daniel Tomosovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomosovich/bootcamp1/issues"
+  },
+  "homepage": "https://github.com/tomosovich/bootcamp1#readme"
+}
